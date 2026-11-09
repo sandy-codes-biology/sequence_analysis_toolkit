@@ -1,7 +1,8 @@
 # Sequence Analysis Toolkit
 
 A Python notebook for basic DNA sequence analysis.
-Built while learning Python and bioinformatics.
+Built while learning Python and bioinformatics. 
+The code includes my own notes to help me understand how certain parts works.
 
 ## What does it do?
 
